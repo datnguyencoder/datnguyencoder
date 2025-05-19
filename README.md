@@ -1,8 +1,11 @@
 # 💫About Me :
 
 ️🎈 IT Student  FPT University  | Software Engineering
+
 ️🎈 Skilled in Java, Spring Boot, RESTful APIs
+
 ️🎈  Git, Docker, Postman
+
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/datgetsu) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ntd.codee/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/th%C3%A0nh-%C4%91%E1%BA%A1t-nguy%E1%BB%85n-444886364/) 
