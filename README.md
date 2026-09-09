@@ -1,28 +1,189 @@
-# 💫About Me :
-️🎈 IT Student FPT University | Software Engineering
+<div align="center">
 
-️🎈 ️Passionate about designing scalable, reliable, and secure backend systems.
+# 👋 Hi, I'm Dat
 
-️️🎈 Front-End : HTML , CSS , JavaScript , React  (React JS).
+### Software Engineering Student @ FPT University
 
-️🎈 Back-End :  Java, Spring Boot, RESTful API  - Database : SQL
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=750\&lines=Backend-Focused+Software+Engineer;Java+%7C+Spring+Boot+%7C+RESTful+API;Building+Scalable+%26+Reliable+Systems;Learning+Microservices+%26+System+Design)](https://git.io/typing-svg)
 
-️🎈 Hands-on with : Git , Docker , Post Man
+<p>
+  <a href="https://github.com/datnguyencoder">
+    <img src="https://img.shields.io/badge/GitHub-datnguyencoder-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://facebook.com/ntd.codee">
+    <img src="https://img.shields.io/badge/Facebook-ntd.codee-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
-🎯 Growth Direction: Smart system design, robust APIs, and clear microservices architecture.
+</div>
 
-🧩 Fun Fact: Backend is the silent brain behind every application — essential but often unnoticed.
- 
-️
-️
+---
 
+## 👨‍💻 About Me
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ntd.codee) 
+```java
+public class Dat {
 
-# 💻Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=datnguyencoder&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=datnguyencoder&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=datnguyencoder&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+    String university = "FPT University";
+    String major = "Software Engineering";
+
+    String focus = "Backend Development";
+
+    String[] interests = {
+        "Microservices",
+        "System Design",
+        "RESTful APIs",
+        "Scalable Systems",
+        "Software Architecture"
+    };
+
+    String goal =
+        "Build scalable, reliable and maintainable software systems.";
+}
+```
+
+* 🎓 Software Engineering student at **FPT University**
+* ☕ Backend-focused developer working mainly with **Java & Spring Boot**
+* 🏗️ Interested in **Microservices Architecture & System Design**
+* 🔐 Learning how to design **secure, scalable and maintainable APIs**
+* 🐳 Exploring **Docker, CI/CD and cloud-native development**
+* 🚀 Continuously improving my backend engineering and architecture skills
+
+---
+
+## 🎯 Current Focus
+
+```text
+Backend Engineering
+├── Java & Spring Boot
+├── RESTful API Design
+├── Authentication & Authorization
+├── Database Design
+├── Microservices Architecture
+├── Docker & Deployment
+└── System Design
+```
+
+### Currently learning
+
+* 🧩 Microservices patterns & service communication
+* 🔐 Authentication, Authorization & API Security
+* 📨 Event-driven architecture & message brokers
+* 📊 Logging, monitoring & observability
+* ⚙️ CI/CD & deployment automation
+* ☁️ Cloud-native application architecture
+
+---
+
+# 🛠️ Tech Stack
+
+## ☕ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
+</p>
+
+**Java • Spring Boot • Spring Security • RESTful API • JWT • Maven**
+
+---
+
+## 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+**HTML5 • CSS3 • JavaScript • React**
+
+---
+
+## 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+**MySQL • Microsoft SQL Server • SQL**
+
+---
+
+## ⚙️ DevOps & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,gcp,postman,githubactions" />
+</p>
+
+**Git • GitHub • Docker • Nginx • Google Cloud • Postman • GitHub Actions**
+
+---
+
+## 🏗️ Engineering Interests
+
+<p>
+  <img src="https://img.shields.io/badge/Microservices-Architecture-36BCF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/System-Design-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST-API-6DB33F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Software-Architecture-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/API-Security-EF4444?style=flat-square" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img
+height="180"
+src="https://github-stats-extended.vercel.app/api?username=datnguyencoder&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+<img
+height="180"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=datnguyencoder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+/>
+
+</div>
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=datnguyencoder&theme=dark&hide_border=true&timezone=Asia%2FHo_Chi_Minh"
+/>
+
+</div>
+
+---
+
+## 💡 Engineering Philosophy
+
+> Good backend systems are not only about making APIs work.
+> They should be **scalable, secure, observable, maintainable and easy to evolve.**
+
+I enjoy understanding how systems work behind the scenes — from API design and databases to service communication and deployment.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/datnguyencoder">
+  <img src="https://img.shields.io/badge/GitHub-datnguyencoder-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com/ntd.codee">
+  <img src="https://img.shields.io/badge/Facebook-ntd.codee-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💻 Code. Design. Build. Improve.
+
+*"Backend is the silent engine behind great software."*
+
+</div>
